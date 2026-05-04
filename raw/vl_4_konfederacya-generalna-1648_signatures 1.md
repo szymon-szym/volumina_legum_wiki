@@ -1,0 +1,11 @@
+---
+id: vl_4_konfederacya-generalna-1648_signatures
+doc: vl_4
+article_number: null
+title: "Konfederacya Generalna 1648 - Podpisy Senatorow y Posłow"
+document_type: confederation
+sejm: "Konwokacja Warszawska 1648-07-16"
+sejm_date: "1648-07-16"
+source_files: ["vl_4_0086_0001-1.md"]
+---
+Podskarbi Wielki W. X. Lit. Starosta Brzeski, m. pp. Adam z Kazanowa, na Czaśnikach Kazanowski, Marszałek Nadworny Koronny, Boryszowski, Solecki, Bielski, Nowotarski, Warecki, Starosta, subscribo salvis per omnia juribus Ecclesiae Universali Romanae, et Palatinatus Masoviae, m. pp. Antonius Ioannes Tyszkiewicz, Mareschalcus Curiae M. D. Lit. Capitanus Castri Vilcomiriensis, m. pp. Bogusław na Lesznie, Generał Wielkopolski, Marszałek Koła Poselskiego. Michał z Zebrzydowic Zebrzydowski, Miecznik Koronny. subscribo salvis juribus Ecclesiae Catholicae Romanae. m. pp. Jerzy Lubomirski, Generalny Starosta Krakowski, m. pp. Franciscus Dęmbiński, P. G. Krakowski, salvis juribus Ecclesiae Catholicae Romanae. m. p. Ian Wielopolski, Starosta Biecki, m. p. Stefan z Pilce Koryciński, Oświęcimski, Wolbromski Starosta, m. p. Stanislaus a Brzezie Chrząstowski, Subiudex Terrestris Generalis Cracovien. in quantum securitas et liberum exercitium dissidentium Ecclesiae non violabitur. Marcin z Raciborowa Raciborowski, Woyski y Posel Xięstwa Zatorskiego y Oświęcimskiego, salvis juribus Ducatuum Zatorien. et Oświęcimen. Piotr ze Bnina Opaliński, Stolnik Koronny, Podkomorzy Województwa Kaliskiego, Odalanowski, Łosicki Starosta, m. p. Łukasz ze Bnina Opaliński, Podkomorzy Poznański, Rubieszewski Starosta, m. p. Ian Szlichting z Bukowca, Sędzia Ziemski Wschowski, Poseł Województwa Poznańskiego. Andrzej Ossowski, non obstantibus quibusvis protestationibus et exceptionibus. Krzysztof Grzymułtowski. Poseł Województwa Poznańskiego. Stanisław Naruszewicz, Referendarz y Pisarz W. X. Litew. Simnieński, Metelski Starosta, Poseł Województwa Wileńskiego, m. p. Wincenty Korwin Gosiewski, Stolnik W. X. Lit. Wieliski, Puński, Markowski Starosta, Poseł Województwa Wileńskiego, salvis ut caeteri Catholici. m. p. Ian Zenowicz, Marszałek y Poseł Powiatu Ośmiańskiego. Ierzy Wolan, Poseł Powiatu Ośmiańskiego, non obstantibus protestationibus contra securitatem dissidentium in religione christiana. Ielski Krzy...

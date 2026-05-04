@@ -1,0 +1,31 @@
+---
+id: vl_4_kommissya_1643_01
+doc: vl_4
+article_number: null
+title: "Kommissya de pretiis rerum et inductis 1643 - Wstęp i postanowienia o taxie"
+document_type: commission
+sejm: "Sejm Warszawski 1643-02-12"
+sejm_date: "1643-02-12"
+source_files: ["vl_4_0039_0001-1.md", "vl_4_0041_0001-1.md"]
+---
+KOMMISSYA
+DE PRETIIS RERUM ET INDUCTIS
+Z UCHWAŁY SEYMU WALNEGO DNIA 27 MIESIĄCA MAIA, W ROKU 1643, W WARSZAWIE, PRZY BOKU IEGO KROLEWSKIEY MOŚCI, ODPRAWOWANA Y POSTANOWIONA.
+
+1. My Andrzey Szoldrski Poznański, Alexander Trzebinski Przemyski Podkanclerzy Koronny, Biskupi: Kasper Donhoff Sieradzki, Ian Zawacki Parnawski, Woiewodowie: Ian Kazimierz Krasiński Kasztellan Warszawski, Łukasz ze Bnina Opaliński Marszałek W. Koronny, Ierzy z Tęczyna Ossoliński Kanclerz Wielki Koronny, Ian Mikołay z Zurowa Daniłowicz Podskarbi Wielki Koronny, z Senatu. A z Izby Poselskiey, z Małey Polski: Mikołay Ostrorog Podczaszy Koronny, Piotr Daniłowicz Krayczy Koronny, Alexander Lubomirski Podczaszy Krolowy Ieymci, Starosta Sandomierski. Z Wielkiey Polski: Bogusław na Leśnie Leszczyński Generał Wielkiey Polski, Marcin Tulibowski Podkomorzy Brzeski, Ian Oborski Starosta Sochaczewski, Balcer Sarbiewski Sędzia Ciechanowski, Kommissarze, konstytucyą blisko przeszłego Seymu od Rzeczypospolitey naznaczeni, abyśmy zjachawszy się do Warszawy przy boku I. K. Mci Pana naszego miłościwego praevio iuramento, ktore w konstytucyi tego Seymu iest opisane clo ab omnibus inductis et inducendis mercibus secundum mentem et tenorem konstytucyi w iako naylepszą ryzę wprawili, a oraz y na to deputowani, aby tym cłem pretia rerum in immensum nie poszły w gorę: żebyśmy y wszystkich towarow do Rzeczypospolitey przywiezionych, y ktore przywiezione będą, pewną uczynili taxę. Dosyć tedy czynie powinności naszey, oddawszy przysięgę, fundowawszy iurysdykcyą przy obecności I. K. Mci do zleconey nam przystąpiliśmy funkcyi.
+
+Naprzod tedy, niechcąc aby przez to cło iakie novum onus ultimos consumentes miało aggravare, do instruktarsza anni 1601 iako do tego, ad cuius proportionem na Rzepltą czwarty grosz idzie, stosowaliśmy się: a przy tym oraz, aby sub pretextu tego podatku, kupcy, kupuiących podniesieniem towarow nie obciążali, pretia rerum, na każde genus mercimonij, ktore do Rzeczypospolitey, lub lądem, lub wodą przychodzi postanowić usiłowaliśmy.
+
+Przeyrzawszy się iednak w przeszłych kommissyach, ktore ad eundem actum postanowione authoritate Comitiali były, na ktorych Kommissarze ab omni genere mercium, osobną taxę stanowili; ze nigdy, do skutku swego nie przyszła, ani żadnego Rzeczypospolitey nie przyniosła pożytku: tudzież y to uważaiąc, że merces exoticae, ktore u nas ani się rodzą, ani robione bywaia, taxari u nas nie mogą, ale taxę swoię z tamtych krajow, ex sui quantitate, albo penuria biora: więc że infinita genera mercium, ktore nie tylko bonitate, ale y manufactura bardzo między sobą są rożne, trudno pod taxę podpadać maią, do inszego sposobu, ktory per compendium wszelakiey kupi czyni szacunek, udaliśmy się. Takieśmy tedy miasto wszystkiey taxy authoritate commissariali, postanowienie uczynili.
+
+Ponieważ wszystkich albo rozumem, albo wiadomością niedościgłych rzeczy iuramentum zwykło supplere, aby każdy kupiec, y szynkarz, y kramarz, tak advena, iako incola, tak chrześcianin, iako infidelis, iakimkolwiek towarem handlujący, w miastach I. K. Mci, y Rzepltey, in facie Officij Castrensis et Civilis, w szlacheckich także, tak duchownego, iako y świeckiego stanu, w bliższym Grodzie oddał iuramentum: a żydzi wedle sposobu w statucie opisanego, y według dekretow I. K. Mci, coram Officio Palatinali et Civili, że towar swoy tak będzie przedawał, iakoby deductis omnibus impensis, nie brał więcey zysku, iedno, iezeli incola siedm, iezeli advena pięć: iezeli infidelis, trzy od sta. Co się ma rozumieć, aby iuż z tey kwoty zysku, wychowanie wszystkie swoie, familij swoiey, y płacą opatrował; podług przysięgi niżey opisanei.
+
+Po takowey przysięgi wykonaniu, iezeliby się taki kupiec periurus znalazł, ktoryby drożey przedawał, ad cujusvis instantiam in foro competenti pozwany, confiscatione mercium ma bydź karany, per medium delatori et fisco: żeby zaś faktorowie, y kupczycy dla swego prywatnego zysku drożey nie przedawali, tedy od pryncypała swego autentyczną maia każdemu kupuiącemu pokazax taxę, y extrakt iuramentu pana swego, a ktoby nie ukazawszy przysięgi, ważył się przedawać, tedy confiscatione towarow ma bydź karany.
+
+od takowych towarow kupcy powinni cła płacić iako od swoich własnych: takie iednak towary maią bydź od ceł wolne, ktore albo za gotowe pieniądze swoje szlachcic kupić kazał, albo za rekognicyą iego kupiec przywiozł na iego własną potrzebę, y pokazało się to, że nikomu inszemu, iedno onemu szlachcicowi towary służą: co iednak juramento corporali, lubo sam szlachcic, lubo sługa iego, par genere et conditione szlachcicowi na teyże komorze komprobować ma, in eam juramenti formam, że te towary za własne pieniądze szlacheckie, albo na własną rekognicyą szlachecką kupione, y przywiezione są, nie na żaden handel, tylko na własną domową potrzebę, y na używanie onego szlachcica.
+
+Pisarzow zaś celnych, ktorzy na komorach ten prowent na skarb odbierać będą, ea securitate, iaka iest ziazdow, y miejsc publicznych, wedle opisania prawa pospolitego, waruiemy.
+
+A żeby był tym lepszy porządek w Państwach Rzeczypospolitey, ratione taxy, to też authoritate commissoriali waruiciny, aby inaksze srebro we wszystkich Państwach Rzeczypospolitey nie było robione, ktoreby nie było trzynastey proby. Waga też, y łokieć, funt, ma bydź po wszystkiey Koronie adinstar Krakowskiey, wedle konstytucyi roku 1565 sub titulo, Ustawa na wagi, y na miary: wedle ktorey we wszystkim zachować się maią.
+
+W robocie zaś złotey tak się sprawować złotnicy maią, żeby Koronne złoto intrinsecae bonitatis miało w sobie dwadzieścia karatow feynu, a przysady srebra feynsylbru z miedzią na pul zmieszanego cztery karaty: a złoto Węgierskie takie, iakie w czerwonych złotych Węgierskich. A żeby w tym podeyście żadne nie było na srebrze, tedy na każdey robioney sztuce ma bydź cecha, tak miasta, iako y mistrza. A do przedawania złota y srebra mnieyszev proby iuż naronionego, czasu pozwalamy do blisko przyszłego nowego lata.
