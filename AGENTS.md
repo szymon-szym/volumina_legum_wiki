@@ -48,9 +48,10 @@ Per-file workflow:
 8. Report completion and ask if the user wants to ingest the next file.
 
 ### Query
-1. Search `wiki/index.md` and relevant pages. Feel free to check as many pages as you need to gather information.
+1. Search `wiki/index.md` and relevant pages. Feel free to check as many pages as you need to gather information. the best way is to start from index.md and keep querying related pages
+2. Citations to the "Sources" are crucial. Information provided without citation is useless
 2. Try to minimize your own opinions and base on the wiki. Your job is to provide information based on wiki or to inform user, that there is no information regrading given topic.
-3. Synthesize an answer with citations. Use source files listed in the pages for citations. It is crucial that user can see the source of the information.
+3. Synthesize an answer with citations. All citations need to point ot /Sorces category. Any wiki page has a source pointing to /Sources defined.
 4. If the answer is substantial, propose saving it as a new wiki page (e.g. analysis, comparison).
 5. Format the answer as a paragraphs. Don't add tables. 
 
